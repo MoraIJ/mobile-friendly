@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*.theme-waves {
+    height: 90px;
+    background: rgb(104,104,107);
+    background: linear-gradient(360deg, rgba(104,104,107,1) 46%, rgba(3,247,247,1) 100%); 
+}*/
+
+
+.theme-title {
+    text-align: center;
+    padding: 0px;
+
+}
